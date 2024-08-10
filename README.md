@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Hello!+its+Jean+Didier;Full+stack+web+developer...;Tech+Enthusiast+&Blogger...;Open+Source+Contributor..."/>
  
  <p>
-  <i>Self-taught web developer from Burkina Faso with a 4 years medical studies background. <br>Lifelong learner and passionate about metalearning (learning how to learn, speed & efficient learning) which I apply to coding and anything related to web developement.
+  <i>Self-taught web developer from Lahore, Pakistan <img src='PK.png?raw=true' width='21' height='15'> with a 4 years medical studies background. <br>Lifelong learner and passionate about metalearning (learning how to learn, speed & efficient learning) which I apply to coding and anything related to web developement.
   <br>I love productivity and place a special emphasis on writing good quality code.<br><br>
   </i>
  </p>
