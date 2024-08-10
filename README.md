@@ -85,25 +85,21 @@
 </br>
 
 </br>
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black&count_private=true&include_all_commits=true" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umer-309&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black&count_private=true&include_all_commits=true" />
 
 ## &nbsp; &nbsp; &nbsp;🔥 My Motto
 
-<img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Soucre+Code+Pro&duration=1700&color=12263A&background=ffffff&multiline=true&width=650&height=220&lines=while(true);..+brain.init();..+if(+world.contains(open_source));....++s+%3D+open_source.login(tarpagad);....+s.explore();....+s.learn();....+s.contribute()"/>
+<img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Soucre+Code+Pro&duration=1700&color=12263A&background=ffffff&multiline=true&width=650&height=220&lines=while(true);..+brain.init();..+if(+world.contains(open_source));....++s+%3D+open_source.login(Umer-309);....+s.explore();....+s.learn();....+s.contribute()"/>
 
-<div align="center">
-<b style ="font-weight: 600">Visitors Count</b>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{tarpagad}/count.svg" /></p> 
-<br>
-</div>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Umer_309" />
 
 ## &nbsp; &nbsp; 📬📥 &nbsp; Connnect with Me
 
 <br/>
 
-&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/tarpaga/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
-<a href="mailto:tarpagajd@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp;
-<a href = "https://t.me/tarpagajd"><img width="100px" alt = "Discord" src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/umer-nisar/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
+<a href="mailto:umernisar.civil@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp;
+<!-- <a href = "https://t.me/tarpagajd"><img width="100px" alt = "Discord" src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a> -->
 
 </br>
 </br>
